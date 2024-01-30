@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @S-h-r-i-t-i-k
+- 👋 Hi, I’m @Shritik
 - 👀 I’m always interested in learning new skills.
 - 🌱 I’m currently learning python, data science, exploring various modules, developing a game etc.
 - 💞️ I’m looking to collaborate on divers projects based on python.
