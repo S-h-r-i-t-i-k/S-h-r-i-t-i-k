@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Shritik
+- 👋 Hi, I’m @Shritik- 'The Data Guy"
 - 👀 I’m always interested in learning new skills.
-- 🌱 I’m currently learning python, data science, exploring various modules, developing a game etc.
+- 🌱 I’m currently working on my SQL, python and dashboard skills.
 - 💞️ I’m looking to collaborate on divers projects based on python.
 - 📫 How to reach me doomrashritik@gmail.com
 
